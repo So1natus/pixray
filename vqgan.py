@@ -26,7 +26,6 @@ vqgan_config_table = {
     "wikiart_16384": 'https://github.com/pixray/pixray/releases/download/v1.7.1/vqgan_wikiart_16384.yaml',
     "wikiart_16384m": 'http://eaidata.bmk.sh/data/Wikiart_16384/wikiart_f16_16384_8145600.yaml',
     "sflckr": 'https://heibox.uni-heidelberg.de/d/73487ab6e5314cb5adba/files/?p=%2Fconfigs%2F2020-11-09T13-31-51-project.yaml&dl=1',
-    "faceshq": 'https://app.koofr.net/links/0fc005bf-3dca-4079-9d40-cdf38d42cd7a?path=%2F2021-04-23T18-19-01_ffhq_transformer%2Fconfigs%2F2021-04-23T18-19-01-project.yaml',
     "drin": 'https://app.koofr.net/links/028f1ba8-404d-42c4-a866-9a8a4eebb40c?path=%2F2020-11-20T12-54-32_drin_transformer%2Fconfigs%2F2020-11-20T12-54-32-project.yaml',
     "ade20k": 'https://app.koofr.net/links/0f65c2cd-7102-4550-a2bd-07fd383aac9e?path=%2F2020-11-20T21-45-44_ade20k_transformer%2Fconfigs%2F2020-11-20T21-45-44-project.yaml'
     "celebahq": 'https://app.koofr.net/links/6dddf083-40c8-470a-9360-a9dab2a94e96?path=%2F2021-04-23T18-11-19_celebahq_transformer%2Fconfigs%2F2021-04-23T18-11-19-project.yaml'
@@ -42,7 +41,6 @@ vqgan_checkpoint_table = {
     "wikiart_16384": 'https://github.com/pixray/pixray/releases/download/v1.7.1/vqgan_wikiart_16384.ckpt',
     "wikiart_16384m": 'http://eaidata.bmk.sh/data/Wikiart_16384/wikiart_f16_16384_8145600.ckpt',
     "sflckr": 'https://heibox.uni-heidelberg.de/d/73487ab6e5314cb5adba/files/?p=%2Fcheckpoints%2Flast.ckpt&dl=1'
-    "faceshq": 'https://app.koofr.net/content/links/0fc005bf-3dca-4079-9d40-cdf38d42cd7a/files/get/last.ckpt?path=%2F2021-04-23T18-19-01_ffhq_transformer%2Fcheckpoints%2Flast.ckpt'
     "drin": 'https://app.koofr.net/content/links/028f1ba8-404d-42c4-a866-9a8a4eebb40c/files/get/last.ckpt?path=%2F2020-11-20T12-54-32_drin_transformer%2Fcheckpoints%2Flast.ckpt',
     "ade20k": 'https://app.koofr.net/content/links/0f65c2cd-7102-4550-a2bd-07fd383aac9e/files/get/last.ckpt?path=%2F2020-11-20T21-45-44_ade20k_transformer%2Fcheckpoints%2Flast.ckpt'
     "celebahq": 'https://app.koofr.net/content/links/6dddf083-40c8-470a-9360-a9dab2a94e96/files/get/last.ckpt?path=%2F2021-04-23T18-11-19_celebahq_transformer%2Fcheckpoints%2Flast.ckpt'
